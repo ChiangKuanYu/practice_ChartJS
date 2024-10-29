@@ -2,7 +2,7 @@
   "name": "uiux_practice_01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ChiangKuanYu.github.io/practice_01",
+  "homepage": "https://ChiangKuanYu.github.io/practice_project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
